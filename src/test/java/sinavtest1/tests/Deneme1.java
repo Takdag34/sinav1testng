@@ -11,6 +11,7 @@ public class Deneme1 {
         System.out.println("tahsinden ilk");
         System.out.println("tahsinden ikinci");
         System.out.println("tahsin3");
+        System.out.println("osmandan 2");
 
     }
 }
