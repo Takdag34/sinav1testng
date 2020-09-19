@@ -12,7 +12,9 @@ public class Deneme1 {
         System.out.println("tahsinden ikinci");
         System.out.println("tahsin3");
         System.out.println("osmandan 2");
+        System.out.println("osmandan 3");
         System.out.println("tahsinden 4");
+
 
     }
 }
