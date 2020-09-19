@@ -8,5 +8,7 @@ public class Deneme1 {
     public void test(){
         System.out.println("ilk deneme");
         System.out.println("Osmandan ilk");
+        System.out.println("tahsinden ilk");
+
     }
 }
