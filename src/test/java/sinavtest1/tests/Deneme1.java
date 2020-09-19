@@ -7,5 +7,6 @@ public class Deneme1 {
     @Test
     public void test(){
         System.out.println("ilk deneme");
+        System.out.println("Osmandan ilk");
     }
 }
