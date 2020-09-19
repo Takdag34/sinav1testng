@@ -9,6 +9,8 @@ public class Deneme1 {
         System.out.println("ilk deneme");
         System.out.println("Osmandan ilk");
         System.out.println("tahsinden ilk");
+        System.out.println("tahsinden ikinci");
+        System.out.println("tahsin3");
 
     }
 }
